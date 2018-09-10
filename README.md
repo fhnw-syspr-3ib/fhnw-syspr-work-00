@@ -29,7 +29,7 @@ Die einzelnen Schritte sind in den Slides
 ## Tools
 ### Git
 Auf Ihrem Computer
-* Zu Beginn jeder Lektion wird ein Hands-on Repository Link bekannt gegeben
+* Zu Beginn jeder Lektion wird dieser [Hands-on Repository Link](https://classroom.github.com/a/Boxw7h1Q) freigeschaltet.
 * Nachdem Sie das "Assessment" annehmen, bekommen Sie per Email ein Repository
 * Die REPO_URL enthält Ihren GitHub Account USER_NAME und Ihre Klasse 3ia oder 3ib, z.B.<br/>
             https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00-tamberg
