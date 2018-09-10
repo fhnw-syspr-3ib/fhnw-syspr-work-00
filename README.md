@@ -2,7 +2,7 @@
 ## Hands-on zu Lektion 0
 Für Slides und Code Beispiele, siehe [Lektion 0](../../../fhnw-syspr/blob/master/00/README.md)
 
-Wichtig: Erstellen Sie ihr Hands-on Repository mit [diesem Link](https://classroom.github.com/a/Boxw7h1Q).
+> Wichtig: Erstellen Sie ihre Kopie dieses Hands-on Repositories mit [diesem Link](https://classroom.github.com/a/Boxw7h1Q).
 
 ### a) Raspberry Pi Setup, 1h
 Die einzelnen Schritte sind in den Slides
