@@ -6,16 +6,16 @@ Für Slides und Code Beispiele, siehe [Lektion 0](../../../fhnw-syspr/blob/maste
 > *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/Boxw7h1Q).*
 
 ### a) Raspberry Pi Setup, 1h
-Die einzelnen Schritte sind in den Slides
+Die einzelnen Schritte sind in den Slides.
 * Raspberry Pi Setup via USB zum eigenen Computer.
-* "Hello World" in C in Hands-on Repository speichern.
+* "Hello World" in C auf Raspberry Pi speichern.
 * Den C Source Code mit gcc kompilieren.<pre>
     $ gcc -o hello hello.c
     $ ./hello</pre>
 * Fertig? Bitte Nachbarn helfen.
 
 ### b) GitHub Setup, 1h
-Die einzelnen Schritte sind in den Slides
+Die einzelnen Schritte sind in den Slides.
 * GitHub Account einrichten, falls keiner vorhanden.
 * Git auf Raspberry Pi installieren und konfigurieren.
 * https://github.com/tamberg/fhnw-syspr klonen.
@@ -32,10 +32,9 @@ Die einzelnen Schritte sind in den Slides
 ## Tools
 ### Git
 Auf Ihrem Computer
-* Zu Beginn jeder Lektion wird der Hands-on Repository Link freigeschaltet.
-* Nachdem Sie das "Assessment" annehmen, bekommen Sie per Email ein Repository
-* Die REPO_URL enthält Ihren GitHub Account USER_NAME und Ihre Klasse 3ia oder 3ib, z.B.<br/>
-            https://github.com/fhnw-syspr-3ia/fhnw-syspr-work-00-tamberg
+* Im Hands-on Repo [Fork für ihre Klasse](../../network/members), in README.md, klicken Sie auf den _GitHub Classroom Link_.
+* Sobald Sie das eben geöffnete "Assessment" annehmen, sehen Sie Ihre persönliche, private _REPO_URL_:<pre>
+http://github.com/fhnw-syspr-CLASS/fhnw-syspr-work-00-USER_NAME</pre>
 
 Auf dem Raspberry Pi
 * Repository klonen<pre>
@@ -47,6 +46,7 @@ Auf dem Raspberry Pi
     $ git commit FILE -m "Fixed all bugs"</pre>
 * Änderungen hochladen<pre>
     $ git push</pre>
+(Hinweis: Der Dozent sieht nun den aktuellen Stand des Repositories.)
 
 ### Nano
 Auf dem Raspberry Pi
