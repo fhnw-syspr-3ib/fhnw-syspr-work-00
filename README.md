@@ -20,7 +20,7 @@ Die einzelnen Schritte sind in den Slides.
 * Git auf Pi bzw. VM installieren und konfigurieren.
 * Hands-on Repo erzeugen aus [/fhnw-syspr-work-00](../../../fhnw-syspr-work-00) (siehe [Git](#git))
 * D.h. dem Link folgen => Forks => Classroom Link.
-* Dann das Hands-on Repo (auf Raspberry Pi) klonen.
+* Dann das Hands-on Repo (auf Raspberry Pi bzw. VM) klonen.
 * File hello.c in Hands-on Repo committen, pushen.
 
 ### Abgabe
